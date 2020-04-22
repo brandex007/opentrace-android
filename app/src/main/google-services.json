@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689478682345",
+    "firebase_url": "https://bbn-bluetrace-test1.firebaseio.com",
+    "project_id": "bbn-bluetrace-test1",
+    "storage_bucket": "bbn-bluetrace-test1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689478682345:android:c6abd30fd4c33f30b15278",
+        "android_client_info": {
+          "package_name": "io.bluetrace.opentrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689478682345-drqoerr7cqm42r2eug56rk0o2ufns298.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVHQD1iYVZlMR6Dwufs5VHQTNdivVTh4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689478682345-drqoerr7cqm42r2eug56rk0o2ufns298.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
