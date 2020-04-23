@@ -16,4 +16,4 @@ app/release
 
 **/Constants.*
 
-gradle.properties
+# gradle.properties
